@@ -32,7 +32,7 @@ This program was created as the final project for the Data Structures course.
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/hilaamls/TebakKata.git
+    git clone https://github.com/hilaaml/TebakKata.git
     cd TebakKata
     ```
 
