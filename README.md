@@ -1,7 +1,5 @@
 # Permainan Tebak Kata
 
-## Description
-
 The Word Guessing Game (Permainan Tebak kata) is an interactive console-based game where players guess words based on provided hints. The game supports multiple players, maintains a leaderboard, and uses a variety of data structures such as arrays, linked lists, and queues.
 This program was created as the final project for the Data Structures course.
 
